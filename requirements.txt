@@ -1,0 +1,5 @@
+overpy
+shapely
+functools
+pyproj
+sparqlwrapper
